@@ -1,0 +1,20 @@
+﻿index,term_a,term_b,operator
+1,co-creat*,digital health,AND
+2,co-creat*,eHealth,AND
+3,co-creat*,mHealth,AND
+4,participatory,digital health,AND
+5,participatory,eHealth,AND
+6,participatory,mHealth,AND
+7,digital health,engag*,AND
+8,eHealth,engag*,AND
+9,mHealth,engag*,AND
+10,digital health,retention,AND
+11,eHealth,retention,AND
+12,mHealth,retention,AND
+13,digital health,attrition,AND
+14,eHealth,attrition,AND
+15,mHealth,attrition,AND
+16,co-creat*,impact,AND
+17,participatory,impact,AND
+18,co-creat*,evaluation,AND
+19,participatory,evaluation,AND
